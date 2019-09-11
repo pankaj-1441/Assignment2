@@ -1,0 +1,172 @@
+body{
+    background-color: bisque;
+}
+.wrap{
+    background-color: grey;
+    
+
+}
+header{
+    width: 100%;
+    background-color: grey;
+    position: fixed;
+    margin-top: -100px;
+}
+.main{
+    margin-top: 100px;
+}
+
+header ul,a{
+    color: wheat;
+    font-size: 20px;
+    text-decoration: none;
+    display: inline;
+    margin-left: 50px;
+    
+
+}
+.navi ul a{
+    margin-top: 30px;
+    
+}
+ul,a:hover{
+    color: black;
+}
+nav li{
+    
+    display: inline;
+    text-decoration: none;
+    
+}
+header p{
+    margin-top: 3px;
+    margin-left: 0px;
+}
+.main p{
+    margin-top: 50px;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+.primary1 img{
+    height: 400px;
+}
+.base1{
+    margin-top: 30px;
+}
+.base1 h4{
+    margin-top: 20px;
+}
+.base1 p{
+    margin-top: -20px;
+}
+.base1 img{
+    height: 200px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .centered h1{
+        font-size: 55px;
+        font-family: 'Aldrich';
+  }
+  .centered h2{
+    font-size: 35px;
+    font-family: 'Aldrich';
+}
+.centered h3{
+    font-size: 25px;
+    font-family: 'Aldrich';
+}
+.basic{
+    background-color: darkgoldenrod;
+}
+.base2 a{
+    font-size: 12px;
+    margin-left: 15px;
+    margin-top: -10px;
+    color: blue;
+}
+footer{
+    background-color: grey;
+}
+footer p{
+ text-align: left;
+ color: black;
+
+}
+.containers a{
+    margin-left: 0px;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+ 
+  .fa:hover {
+    opacity: 0.7;
+  }
+ 
+  .fa-facebook {
+    display: inline-block;
+    border-radius: 10px;
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    display: inline-block;
+    border-radius: 10px;
+    background: #55ACEE;
+    color: white;
+    
+  }
+  .fa-instagram {
+    display: inline-block;
+    border-radius: 10px;
+  background: #d6249f;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+  box-shadow: 0px 3px 10px rgba(0,0,0,.25);
+    
+  }
+  .fa-whatsapp {
+    display: inline-block;
+    border-radius: 10px;
+    background: #33cc66;
+    color: white;
+    
+  }
+  .last a{
+      color: black;
+      font-size: 12px;
+      text-decoration: underline;
+      margin: -2px;
+  }
+  .last2 a{
+      color:black;
+      font-size: 12px;
+      text-align: right;
+      text-decoration-line: underline;
+  }
+
+  blockquote{
+	width: 500px;
+	border: 1px solid black;
+	padding: 3px;
+    text-align: center;
+    margin-bottom: 30px;
+    
+}
+  
